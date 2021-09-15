@@ -1,0 +1,20 @@
+.header {
+  background-color: darkslateblue;
+  color: lightsteelblue;
+  text-align: center;
+}
+
+.main {
+  background-color: lightsteelblue;
+  padding: 1em;
+}
+
+body {
+margin: 0;
+background-image: url("record.png");
+background-repeat: repeat;
+}
+
+ul {
+  background-color: lightsteelblue;
+}
